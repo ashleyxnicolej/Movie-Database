@@ -1,5 +1,5 @@
 # Movie-Database
-In this mini-project, I have built Rest API routes for creating, retrieving, and deleting movies from a PostgreSQL database.
+In this mini-project, we have built Rest API routes for creating, retrieving, and deleting movies from a PostgreSQL database.
 
 
 
